@@ -1,0 +1,1 @@
+class t{constructor(t){t&&this.setValue(t)}setValue(t){if("string"==typeof t)try{t=JSON.parse(t)}catch(e){return void console.error("init entity error!",e,t,this)}else for(let s of t)this[s]=null;Object.assign(this,t)}}var e,s;(s=e||(e={}))[s.View=0]="View",s[s.Edit=1]="Edit",s[s.Insert=2]="Insert";export{t as B,e as C};
