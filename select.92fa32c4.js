@@ -1,0 +1,1 @@
+import{r as e,h as r,i as t}from"./index.9b6b6501.js";import"./vendor.fa9df649.js";const s={setup:()=>({str:e("vue3")})};s.render=function(e,s,n,o,i,u){return r(),t("section",null,"select")};export default s;
